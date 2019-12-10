@@ -1,0 +1,9 @@
+{
+    "marketplaceName"   : {"de": "plentyDevTool","en": "plentyDevTool"},
+    "isExternalTool"    : true,
+    "license"           : "MIT",
+    "price"             : 0.00,
+    "shortDescription"  : {"de":"Erlebe das nächste Level der Plugin-Entwicklung. Synchronisiere Plugins mit deiner lokalen Inbox und stelle sie ohne Verzögerung bereit.","en":"Take plugin development to the next level by synchronising plugins with your local inbox and deploying them instantly."},
+    "categories"        : ["3521"],
+    "keywords"          : ["plugins", "development", "tool", "plentyDevTool"]
+}

@@ -1,6 +1,6 @@
 {
-  "name"              : "plentydevtool-marketplace",
-  "namespace"         : "plentydevtool-marketplace",
+  "name"              : "PlentyDevTool",
+  "namespace"         : "PlentyDevTool",
   "type"              : "tool",
   "version"           : "1.1.0",
   "isClosedSource"    : true,

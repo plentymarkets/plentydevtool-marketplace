@@ -1,6 +1,20 @@
+## 1.1.0
+### Neu
+* **Das Framework wurde auf die neuste Version aktualisiert.**
+* **Endbenutzer-Lizenzbestimmungen hinzugefügt.**
+* **Tastenkombinationen hinzugefügt.** Die Tastenkombinationen lauten wie folgt:
+    - Pull: CMD+P (macOS) oder CTRL+P (Windows & Linux)
+    - Push: CMD+U (macOS) oder CTRL+U (Windows & Linux)
+    - Neue lokale Plugins erkennen: CMD+D (macOS) oder CTRL+D (Windows & Linux)
+
+### Geändert
+* Die Tab-Taste wurde deaktiviert.
+
+### Behoben
+* Die App muss nach dem Hochladen eines Plugins nicht mehr geschlossen und neu gestartet werden.
 ## 0.4.1
 
-### Behoben 
+### Behoben
 
 * **Unterstützung für Dateisysteme, die Groß- und Kleinschreibung nicht beachten:** Auf Dateisystemen, die Groß- und Kleinschreibung nicht beachten, wurden Dateien direkt nach dem Pullen gelöscht, wenn nur die Groß- und Kleinschreibung geändert wurde. Dieses Verhalten wurde behoben.
 
@@ -10,11 +24,11 @@
 * **Verbesserte Benutzeroberfläche:** Die Bedienbarkeit der Benutzeroberfläche wird nicht mehr durch das Synchronisieren von Dateien eingeschränkt.
 * **Deutsche Benutzeroberfläche:** Die Benutzeroberfläche wurde ins Deutsche übersetzt.
 
-### Behoben 
+### Behoben
 
 * **Schließen von Erfolgsnachrichten:** Erfolgsnachrichten können jetzt wie vorgesehen geschlossen werden.
 * **Neue Plugins ohne ServiceProvider:** Neue Plugins werden auch erkannt, wenn in der Plugin-JSON kein ServiceProvider angegeben ist. ServiceProvider sind optional.
-* **Zertifikat für Windows aktualisiert:** Benutzer erhalten bei der Erstnutzung auf Windows keine Warnmeldung mehr. 
+* **Zertifikat für Windows aktualisiert:** Benutzer erhalten bei der Erstnutzung auf Windows keine Warnmeldung mehr.
 
 ## 0.3.1
 
@@ -40,7 +54,7 @@
 
 ## 0.2.0
 
-### Neu 
+### Neu
 
 * **Protokoll:** Es wird nun eine Protokolldatei geschrieben.
 * **Verbotene Zeichen in Dateipfaden:** Wenn eine Dateipfad verbotene Zeichen enthält, wird die Datei nicht mehr gepusht. Stattdessen wird eine Liste mit den verbotenen Zeichen angezeigt.

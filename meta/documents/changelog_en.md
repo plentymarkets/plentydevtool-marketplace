@@ -1,6 +1,21 @@
+## 1.1.0
+### New
+* **Update core framework to latest version.**
+* **Add EULA.**
+* **Add keyboard shortcuts.** The shortcuts are as follows:
+    - Pull: CMD+P (macOS) or CTRL+P (Windows & Linux)
+    - Push: CMD+U (macOS) or CTRL+U (Windows & Linux)
+    - Detect new local plugin: CMD+D (macOS) or CTRL+D (Windows & Linux)
+
+### Changed
+* The tab key has been disabled.
+
+### Fixed
+* It's no longer necessary to close and re-open the application to log in after uploading a plugin.
+
 ## 0.4.1
 
-### Fixed 
+### Fixed
 
 * **Case insensitive filesystem support:** On case-insensitive file systems, files (where only the case was changed) were deleted immediately after they were pulled. This has been fixed.
 
@@ -10,11 +25,11 @@
 * **User interface performance:** The user interface can now be operated smoothly while many files are synchronized.
 * **German user interface:** The user interface has been translated to german.
 
-### Fixed 
+### Fixed
 
 * **Non-closable success messages:** Success messages can now be closed as intended.
 * **New plugins without ServiceProvider:** New plugins are now recognized even if no ServiceProvider is specified in plugin.json, because this is optional.
-* **Windows certificate updated:** Users will not longer see a warning, if they use plentyDevTool on Windows for the first time. 
+* **Windows certificate updated:** Users will not longer see a warning, if they use plentyDevTool on Windows for the first time.
 
 ## 0.3.1
 
@@ -40,7 +55,7 @@
 
 ## 0.2.0
 
-### New 
+### New
 
 * **Logger**: From now on a log file will be written.
 * **Disallowed Characters in file paths** Files with not allowed characters in file path will not longer be pushed. Instead a warning displays a list of them.

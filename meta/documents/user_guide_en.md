@@ -14,17 +14,19 @@ The **Settings** menu will also open if plentyDevTool does not recognize a local
 
 When downloading new plugins from remote, plentyDevTool will automatically create new folders in the folder you selected for synchronisation. Folders will be created in the following pattern:
 
-LocalSyncFolder/
+```shell
+LokalerSyncOrdner/
     ├── System_PID/
     │   ├── Set_ID/
-    │   │   │   
+    │   │   │
     │   │   ├── Plugin_Name/
-    │   │   │   
+    │   │   │
     │   │   ├── Plugin_Name/
-    │   │   │   
+    │   │   │
     │   │   └── . . .
     │   └── . . .
     └── . . .
+```
 
 **Do not change this structure or the folder names.** If you do, plentyDevTool will no longer recognize those systems, plugin sets and plugins locally.
 

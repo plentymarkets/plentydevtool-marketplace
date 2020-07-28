@@ -14,17 +14,19 @@ Das Menü **Einstellungen** öffnet sich auch dann, wenn der gewählte Ordner ni
 
 Wenn du neue Plugins von deinem System herunterlädst, werden in dem Ordner, den du zum Synchronisieren gewählt hast, automatisch neue Ordner angelegt. Die Ordnerstruktur wird dabei nach folgendem Muster erstellt:
 
+```shell
 LokalerSyncOrdner/
     ├── System_PID/
     │   ├── Set_ID/
-    │   │   │   
+    │   │   │
     │   │   ├── Plugin_Name/
-    │   │   │   
+    │   │   │
     │   │   ├── Plugin_Name/
-    │   │   │   
+    │   │   │
     │   │   └── . . .
     │   └── . . .
     └── . . .
+```
 
 **Ändere weder diese Struktur noch die Namen der Ordner.** Wenn du diese Angaben änderst, werden Systeme, Plugin-Sets und Plugins lokal nicht mehr von plentyDevTool erkannt.
 

@@ -4,6 +4,10 @@
   "type"              : "tool",
   "version"           : "1.1.0",
   "isClosedSource"    : true,
+  "price"             : 0.00,
+  "isExternalTool"    : true,
+  "categories"        : ["3521"],
+  "shortDescription"  : {"de":"Erlebe das nächste Level der Plugin-Entwicklung. Synchronisiere Plugins mit deiner lokalen Inbox und stelle sie ohne Verzögerung bereit.","en":"Take plugin development to the next level by synchronising plugins with your local inbox and deploying them instantly."},
   "pluginIcon"        : "icon_plugin_xs.png",
   "description"       : "plentyDevTool helps you streamline your plugin development workflow. It allows you to synchronise your local plugin files with those on your plentymarkets system. You can also build your plugin automatically when pushing changes.",
   "author"            : "plentysystems AG",
@@ -11,5 +15,5 @@
   "email"             : "sales@plentymarkets.com",
   "phone"             : "+49 561 98 681 100",
 
-  "directDownloadLinks": {"Windows":"download-link", "MacOs":"download-link", "Linux":"download-link"}
+  "directDownloadLinks": {"Windows":"http://download.plentybase.de/plentydevtool/PlentyDevTool_setup_1.1.1.exe", "MacOs":"http://download.plentybase.de/plentydevtool/PlentyDevTool-1.1.1.dmg", "Linux":"http://download.plentybase.de/plentydevtool/PlentyDevTool-1.1.1.AppImage"}
 }

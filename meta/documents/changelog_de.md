@@ -1,7 +1,7 @@
 ## 1.1.1
-### Fixed
-* Tastaturkürzel im Anmeldebildschirm funktionieren nicht mehr. Dies verhindert das die Anmeldung nicht mehr möglich ist.
-* Der Pluginname im linken Seitenmenü wird nun abgeschnitten wenn er zu lang ist.
+### Behoben
+* Es ist nicht mehr möglich, Tastenkombinationen in der Login-Ansicht zu verwenden. Das verhindert, dass der Login durch eine Überlagerung unzugänglich ist.
+* Bei langen Plugin-Namen wird das Layout in der linken Randleiste des Dashboards nicht mehr verzogen.
 
 ## 1.1.0
 ### Neu

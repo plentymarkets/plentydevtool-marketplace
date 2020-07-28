@@ -1,3 +1,8 @@
+## 1.1.1
+### Fixed
+* Shortcuts no longer work on the login screen. This prevents the login from becoming inaccessible.
+* Text overflow of plugin names in the left sidebar of the dashboard.
+
 ## 1.1.0
 ### New
 * **Update core framework to latest version.**

@@ -1,3 +1,8 @@
+## 1.1.1
+### Fixed
+* Tastaturkürzel im Anmeldebildschirm funktionieren nicht mehr. Dies verhindert das die Anmeldung nicht mehr möglich ist.
+* Der Pluginname im linken Seitenmenü wird nun abgeschnitten wenn er zu lang ist.
+
 ## 1.1.0
 ### Neu
 * **Das Framework wurde auf die neuste Version aktualisiert.**

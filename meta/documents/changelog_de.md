@@ -1,9 +1,12 @@
-## 1.1.2
+## 1.1.3
 ### Geändert
 * Alle globalen Tastenkombinationen wurden zu lokalen Tastenkombinationen geändert und sind nun außerdem über Menüeinträge ausführbar.
 
 ### Behoben
 * Die Tab-Taste ist nicht mehr global gesperrt, wenn plentyDevTool aktiv ist.
+
+## 1.1.2
+Übersprungen.
 
 ## 1.1.1
 ### Behoben

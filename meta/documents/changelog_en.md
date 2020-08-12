@@ -1,9 +1,12 @@
-## 1.1.2
+## 1.1.3
 ### Changed
 * Global shortcuts have been changed to menu entries and local shortcuts.
 
 ### Fixed
 * The tab key is no longer disabled globally while plentyDevTool is running.
+
+## 1.1.2
+Skipped.
 
 ## 1.1.1
 ### Fixed

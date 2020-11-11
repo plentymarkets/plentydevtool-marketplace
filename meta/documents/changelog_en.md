@@ -1,3 +1,7 @@
+## 1.1.4
+### Fixed
+* Paths specified in the `plenty.ignore` file are no longer watched. This speeds up local file processing significantly.
+
 ## 1.1.3
 ### Changed
 * Global shortcuts have been changed to menu entries and local shortcuts.

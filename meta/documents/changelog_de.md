@@ -1,3 +1,7 @@
+## 1.1.4
+### Behoben
+* Die Pfade, die in der Datei `plenty.ignore` angegeben sind, werden nicht mehr beobachtet. Dadurch wird die Wartezeit beim Verarbeiten von lokalen Dateien stark verringert.
+
 ## 1.1.3
 ### Geändert
 * Alle globalen Tastenkombinationen wurden zu lokalen Tastenkombinationen geändert und sind nun außerdem über Menüeinträge ausführbar.

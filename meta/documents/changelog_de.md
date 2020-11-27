@@ -1,3 +1,7 @@
+## 1.1.5
+### Behoben
+* Beim Login ist es nun möglich auszuwählen, zu welchem Server die Verbindung aufgebaut werden soll. Dadurch kannst du den Irland-Server (IE) selbst wählen, wenn plentyDevTool sich nicht automatisch mit dem richtigen Server verbindet.
+
 ## 1.1.4
 ### Behoben
 * Die Pfade, die in der Datei `plenty.ignore` angegeben sind, werden nicht mehr beobachtet. Dadurch wird die Wartezeit beim Verarbeiten von lokalen Dateien stark verringert.

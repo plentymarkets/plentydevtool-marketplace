@@ -1,3 +1,7 @@
+## 1.1.5
+### Fixed
+* Added a server select to the login screen. This allows you to select the Ireland (IE) cloud manually if the system doesn't connect to the correct server automatically.
+
 ## 1.1.4
 ### Fixed
 * Paths specified in the `plenty.ignore` file are no longer watched. This speeds up local file processing significantly.

@@ -1,3 +1,7 @@
+## 1.2.0
+### New
+* It's now possible to log into multiple systems at the same time. Switching between systems doesn't require logging out. It's possible to log out either from one system or all systems.
+
 ## 1.1.5
 ### Fixed
 * Added a server select to the login screen. This allows you to select the Ireland (IE) cloud manually if the system doesn't connect to the correct server automatically.

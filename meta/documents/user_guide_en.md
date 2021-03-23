@@ -32,6 +32,18 @@ LokalerSyncOrdner/
 
 **Do not add, delete or modify files manually anywhere outside the plugin subfolders.**
 
+### Multi-Login
+
+You can log into multiple plentymarkets systems at the same time. This is useful if you develop on more than one system and need to switch back and forth between the systems frequently.
+
+To log into an additional system, carry out the following steps:
+
+1. Click on the logout icon.
+2. Click on **Switch system**. The login view opens.
+3. Log into another system with the corresponding credentials.
+
+You can switch between systems by clicking on the user account icon.
+
 ## Synchronisation
 
 Before you can start coding, you need to decide which plugins you want to work on. On the left-hand side, open the plugin set which contains the plugin you want to synchronise, then toggle the plugin. You can select as many plugins as you want this way.

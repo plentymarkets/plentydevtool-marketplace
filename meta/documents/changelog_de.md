@@ -1,6 +1,7 @@
 ## 1.2.0
 ### Neu
 * Es ist nun möglich, sich auf mehreren Systemen gleichzeitig anzumelden. Ein Wechsel zwischen Systemen erfordert kein Ausloggen mehr. Es ist möglich, sich entweder von einem oder allen Systemen abzumelden.
+* Es werden nun genauere Nachrichten angezeigt, wann das Plugin-Set im Backend bereitgestellt werden muss.
 
 ## 1.1.5
 ### Behoben

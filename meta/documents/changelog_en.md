@@ -1,6 +1,7 @@
 ## 1.2.0
 ### New
 * It's now possible to log into multiple systems at the same time. Switching between systems doesn't require logging out. It's possible to log out either from one system or all systems.
+* The system now provides more accurate messages when a build is required.
 
 ## 1.1.5
 ### Fixed

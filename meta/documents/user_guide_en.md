@@ -36,13 +36,11 @@ LokalerSyncOrdner/
 
 You can log into multiple plentymarkets systems at the same time. This is useful if you develop on more than one system and need to switch back and forth between the systems frequently.
 
-To log into an additional system, carry out the following steps:
+To log into an additional system, open a new tab in the system bar. This opens a new login window. In this window, you can enter the credentials of another system. Once you've logged in, the system is added as a new tab.
 
-1. Click on the logout icon.
-2. Click on **Switch system**. The login view opens.
-3. Log into another system with the corresponding credentials.
+You can switch between systems by clicking on the corresponding tabs.
 
-You can switch between systems by clicking on the user account icon.
+By closing a tab, you log out of that system.
 
 ## Synchronisation
 

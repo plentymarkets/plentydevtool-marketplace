@@ -2,7 +2,7 @@
   "name"              : "PlentyDevTool",
   "namespace"         : "PlentyDevTool",
   "type"              : "tool",
-  "version"           : "1.1.5",
+  "version"           : "1.2.0",
   "isClosedSource"    : true,
   "price"             : 0.00,
   "isExternalTool"    : true,
@@ -15,5 +15,5 @@
   "email"             : "sales@plentymarkets.com",
   "phone"             : "+49 561 98 681 100",
 
-  "directDownloadLinks": {"Windows":"https://download.plentybase.de/plentydevtool/PlentyDevTool_setup_1.1.5.exe", "MacOs":"https://download.plentybase.de/plentydevtool/PlentyDevTool-1.1.5.dmg", "Linux":"https://download.plentybase.de/plentydevtool/PlentyDevTool-1.1.5.AppImage"}
+  "directDownloadLinks": {"Windows":"https://download.plentybase.de/plentydevtool/PlentyDevTool_setup_1.2.0.exe", "MacOs":"https://download.plentybase.de/plentydevtool/PlentyDevTool-1.2.0.dmg", "Linux":"https://download.plentybase.de/plentydevtool/PlentyDevTool-1.2.0.AppImage"}
 }

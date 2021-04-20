@@ -32,6 +32,16 @@ LokalerSyncOrdner/
 
 **Vermeide das Hinzufügen, Löschen und Ändern von Dateien außerhalb der Plugin-Unterordner.**
 
+### Multi-Login
+
+Du kannst dich gleichzeitig auf mehreren plentymarkets Systemen einloggen. Das ist vor allem dann nützlich, wenn du auf mehreren Systemen entwickelst und häufig zwischen den Systemen hin- und herwechseln musst.
+
+Um dich in einem weiteren Systemen einzuloggen, öffne ein neues Tab in der Systemleiste. Dadurch öffnet sich ein neues Fenster. In diesem Fenster kannst du die Zugangsdaten für ein anderes System eingeben. Nach dem Einloggen wird das System in einem neuen Tab hinzugefügt.
+
+Du kannst zwischen Systemen wechseln, indem du auf das entsprechende Tab klickst.
+
+Durch das Schließen eines Tabs logst du dich aus diesem System wieder aus.
+
 ## Synchronisierung
 
 Bevor du mit dem Entwickeln loslegst, musst du auswählen, an welchen Plugins du arbeiten möchstest. Öffne im Menü auf der linken Seite das Plugin-Set, das das Plugin enthält, das du synchronisieren möchtest. Nutze dann die Umschaltfläche, um das Plugin auszuwählen. Du kannst so viele Plugins auswählen wie du möchtest.

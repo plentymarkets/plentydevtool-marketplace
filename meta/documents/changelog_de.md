@@ -1,3 +1,11 @@
+## 1.2.0
+### Neu
+* Es ist nun möglich, sich auf mehreren Systemen gleichzeitig anzumelden. Ein Wechsel zwischen Systemen erfordert kein Ausloggen mehr. Es ist möglich, sich entweder von einem oder allen Systemen abzumelden.
+
+## 1.1.6
+### Neu
+* Es werden nun genauere Nachrichten angezeigt, wann das Plugin-Set im Backend bereitgestellt werden muss.
+
 ## 1.1.5
 ### Behoben
 * Beim Login ist es nun möglich auszuwählen, zu welchem Server die Verbindung aufgebaut werden soll. Dadurch kannst du den Irland-Server (IE) selbst wählen, wenn plentyDevTool sich nicht automatisch mit dem richtigen Server verbindet.

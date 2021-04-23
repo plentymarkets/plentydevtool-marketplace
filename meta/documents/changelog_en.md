@@ -1,3 +1,7 @@
+## 1.2.1
+### New
+* Added login option for own clouds in the advanced settings.
+
 ## 1.2.0
 ### New
 * It's now possible to log into multiple systems at the same time. Switching between systems doesn't require logging out. It's possible to log out either from one system or all systems.

@@ -1,3 +1,7 @@
+## 1.2.1
+### Neu
+* Eine Option zum Login auf eigenen Clouds wurde hinzugefügt.
+
 ## 1.2.0
 ### Neu
 * Es ist nun möglich, sich auf mehreren Systemen gleichzeitig anzumelden. Ein Wechsel zwischen Systemen erfordert kein Ausloggen mehr. Es ist möglich, sich entweder von einem oder allen Systemen abzumelden.

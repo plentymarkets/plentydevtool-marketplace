@@ -1,3 +1,11 @@
+## 1.3.0
+### New
+* Beim Öffnen von plentyDevTool und der An- bzw. Abwahl eines Plugins zum Synchronisieren werden lokale Dateien jetzt mithilfe einer Warteschlange verarbeitet. Das bedeutet, dass nach dem An- und Abwählen eines Plugins die UI jetzt nicht mehr vorübergehend gesperrt wird.
+
+### Fixed
+* Wenn eine Sitzung abgelaufen war, hat plentyDevTool beim Ausführen einer Aktion nicht mehr reagiert. Jetzt werden Nutzer:innen stattdessen dazu aufgefordert, sich neu anzumelden oder das System zu schließen.
+* Wird ein lokales Plugin zur Installation erkannt, wird es nach einem Systemwechsel nicht mehr auf dem Dashboard angezeigt.
+
 ## 1.2.1
 ### Neu
 * Eine Option zum Login auf eigenen Clouds wurde hinzugefügt.

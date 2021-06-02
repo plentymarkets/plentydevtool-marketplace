@@ -1,3 +1,11 @@
+## 1.3.0
+### New
+* Local file processing is now queued when opening the app and when toggling plugins on or off. This means it's now possible to toggle plugins without plentyDevTool locking the entire UI for file processing.
+
+### Fixed
+* When the session has expired, plentyDevTool no longer becomes unresponsive after performing an action. Instead, users are now prompted to either log in again or close the system.
+* Local plugins that were detected for installation no longer persist on the dashboard when logging out and into a different system.
+
 ## 1.2.1
 ### New
 * Added login option for own clouds in the advanced settings.

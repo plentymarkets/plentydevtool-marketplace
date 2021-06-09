@@ -1,3 +1,7 @@
+## 1.3.1
+### Fixed
+* Wenn eine Sitzung abgelaufen ist und das Popupfenster zum erneuten Einloggen erscheint, hängt das System beim Versuch, sich erneut einzuloggen nicht mehr in einer Endlosschleife fest.
+
 ## 1.3.0
 ### New
 * Beim Öffnen von plentyDevTool und der An- bzw. Abwahl eines Plugins zum Synchronisieren werden lokale Dateien jetzt mithilfe einer Warteschlange verarbeitet. Das bedeutet, dass nach dem An- und Abwählen eines Plugins die UI jetzt nicht mehr vorübergehend gesperrt wird.

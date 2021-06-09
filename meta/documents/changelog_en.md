@@ -1,3 +1,7 @@
+## 1.3.1
+### Fixed
+* The login prompt the system displays after a session has timed out gets no longer caught in an infinite loop.
+
 ## 1.3.0
 ### New
 * Local file processing is now queued when opening the app and when toggling plugins on or off. This means it's now possible to toggle plugins without plentyDevTool locking the entire UI for file processing.

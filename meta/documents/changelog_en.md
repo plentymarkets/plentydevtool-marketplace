@@ -1,3 +1,7 @@
+## 1.3.2
+### Fixed
+* The login now also works for own cloud systems with an ID of 9 or less.
+
 ## 1.3.1
 ### Fixed
 * The login prompt the system displays after a session has timed out gets no longer caught in an infinite loop.

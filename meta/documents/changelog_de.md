@@ -1,12 +1,16 @@
+## 1.3.2
+### Behoben
+* Der Login funktioniert jetzt auch für Systeme auf eigenen Clouds mit der Cloud-ID 9 oder niedriger.
+
 ## 1.3.1
-### Fixed
+### Behoben
 * Wenn eine Sitzung abgelaufen ist und das Popupfenster zum erneuten Einloggen erscheint, hängt das System beim Versuch, sich erneut einzuloggen nicht mehr in einer Endlosschleife fest.
 
 ## 1.3.0
-### New
+### Neu
 * Beim Öffnen von plentyDevTool und der An- bzw. Abwahl eines Plugins zum Synchronisieren werden lokale Dateien jetzt mithilfe einer Warteschlange verarbeitet. Das bedeutet, dass nach dem An- und Abwählen eines Plugins die UI jetzt nicht mehr vorübergehend gesperrt wird.
 
-### Fixed
+### Behoben
 * Wenn eine Sitzung abgelaufen war, hat plentyDevTool beim Ausführen einer Aktion nicht mehr reagiert. Jetzt werden Nutzer:innen stattdessen dazu aufgefordert, sich neu anzumelden oder das System zu schließen.
 * Wird ein lokales Plugin zur Installation erkannt, wird es nach einem Systemwechsel nicht mehr auf dem Dashboard angezeigt.
 

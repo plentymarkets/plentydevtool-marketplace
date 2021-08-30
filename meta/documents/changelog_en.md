@@ -1,3 +1,12 @@
+## 1.4.0
+### New
+* Updated Angular to version 12. The update improves security and stability.
+
+### Fixed
+* When detecting new local plugins, plentyDevTool didn't detect any plugins when no plugin was selected for synchronisation. This issue has been resolved.
+* When deleting plugin files from the local system and pulling the plugin again, the deleted files are restored. This only applies to files present in the plentymarkets system.
+* Diacritics are now accurately recognised as forbidden characters.
+
 ## 1.3.2
 ### Fixed
 * The login now also works for own cloud systems with an ID of 9 or less.

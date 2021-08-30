@@ -1,3 +1,12 @@
+## 1.4.0
+### Neu
+* Angular wurde auf Version 12 aktualisiert. Durch dieses Update wird die Sicherheit und Stabilität der App verbessert.
+
+### Behoben
+* Beim Erkennen von neuen lokalen Plugins wurden keine Plugins erkannt, wenn keine anderen Plugins zur Synchronisation ausgewählt waren. Dieses Problem wurde behoben.
+* Wenn die Dateien eines Plugins lokal gelöscht wurden, werden die gelöschten Dateien beim Erneuten Pullen des Plugins wiederhergestellt. Nur Dateien, die noch im plentymarkets System vorhanden sind, können so wiederhergestellt werden.
+* Diakritika werden jetzt wie vorgesehen als verbotene Zeichen erkannt.
+
 ## 1.3.2
 ### Behoben
 * Der Login funktioniert jetzt auch für Systeme auf eigenen Clouds mit der Cloud-ID 9 oder niedriger.

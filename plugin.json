@@ -2,7 +2,7 @@
   "name"              : "PlentyDevTool",
   "namespace"         : "PlentyDevTool",
   "type"              : "tool",
-  "version"           : "1.4.0",
+  "version"           : "1.4.1",
   "isClosedSource"    : true,
   "price"             : 0.00,
   "isExternalTool"    : true,

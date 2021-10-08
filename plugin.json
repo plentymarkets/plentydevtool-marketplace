@@ -15,5 +15,5 @@
   "email"             : "sales@plentymarkets.com",
   "phone"             : "+49 561 98 681 100",
 
-  "directDownloadLinks": {"Windows":"https://s3.eu-central-1.amazonaws.com/download.plentybase.de/plentydevtool/PlentyDevTool_setup_1.4.0.exe", "MacOs":"https://s3.eu-central-1.amazonaws.com/download.plentybase.de/plentydevtool/PlentyDevTool-1.4.0.dmg", "Linux":"https://s3.eu-central-1.amazonaws.com/download.plentybase.de/plentydevtool/PlentyDevTool-1.4.0.AppImage"}
+  "directDownloadLinks": {"Windows":"https://s3.eu-central-1.amazonaws.com/download.plentybase.de/plentydevtool/PlentyDevTool_setup_1.4.1.exe", "MacOs":"https://s3.eu-central-1.amazonaws.com/download.plentybase.de/plentydevtool/PlentyDevTool-1.4.1.dmg", "Linux":"https://s3.eu-central-1.amazonaws.com/download.plentybase.de/plentydevtool/PlentyDevTool-1.4.1.AppImage"}
 }

@@ -1,3 +1,7 @@
+## 1.4.1
+### Fixed
+* Die Kompatibilität zum Root-Zertifikat von Let's Encrypt wurde wiederhergestellt.
+
 ## 1.4.0
 ### Neu
 * Angular wurde auf Version 12 aktualisiert. Durch dieses Update wird die Sicherheit und Stabilität der App verbessert.

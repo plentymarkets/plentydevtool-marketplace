@@ -1,3 +1,7 @@
+## 1.4.2
+### Fixed
+* Ein Fehler beim Kompilieren wurde behoben.
+
 ## 1.4.1
 ### Fixed
 * Die Kompatibilität zum Root-Zertifikat von Let's Encrypt wurde wiederhergestellt.

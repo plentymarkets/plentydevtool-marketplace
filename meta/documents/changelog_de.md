@@ -1,3 +1,10 @@
+## 1.5.0
+### New
+* Die Sicherheit und Stabilität des Tools wurden durch ein Update auf Angular 13 verbessert.
+* Im Loginbereich ist es jetzt möglich, durch einen Klick auf das Augensymbol das Passwort anzuzeigen.
+* Während die App nach dem Login lädt, wird jetzt ein Wartekreisel angezeigt.
+* Es ist jetzt möglich, die Anordnung der System-Tabs zu ändern.
+
 ## 1.4.2
 ### Fixed
 * Ein Fehler beim Kompilieren wurde behoben.

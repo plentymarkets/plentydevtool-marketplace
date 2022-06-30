@@ -1,3 +1,15 @@
+## 1.5.2
+### Neu
+* Durch das Update werden die Sicherheit und Stabilität des Tools verbessert.
+* In plentyDevTool werden ab jetzt weitere Benachrichtigungen angezeigt. Durch die Benachrichtigungen kann deutlich werden warum eine Aktion fehlgeschlagen ist.
+
+### Geändert
+* Das Styling von einigen UI-Komponenten wurde aktualisiert.
+
+### Behoben
+* Das Symbol zum Schließen eines Elements wird jetzt für alle Elemente angezeigt, die so geschlossen werden können.
+* Auf dem Dashboard werden geänderte Dateien jetzt richtig angezeigt. Zuvor wurden Dateien nicht angezeigt, wenn durch die Änderung der Zeitstempel der Datei nicht aktualisiert wurde. Das konnte z.B. passieren, wenn eine Datei durch Kopieren und Ersetzen geändert wurde.
+
 ## 1.5.1
 ### Neu
 * Durch das Update werden die Sicherheit und Stabilität des Tools verbessert.
